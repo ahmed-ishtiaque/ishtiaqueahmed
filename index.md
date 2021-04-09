@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<https://github.com/ahmed-ishtiaque/Mall-Customer-Segmentation"/>
+[Project 1 Title](https://github.com/ahmed-ishtiaque/Mall-Customer-Segmentation)
+<img src="https://user-images.githubusercontent.com/4210955/110245508-6c2dd480-7f31-11eb-905b-71e166ea6038.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
